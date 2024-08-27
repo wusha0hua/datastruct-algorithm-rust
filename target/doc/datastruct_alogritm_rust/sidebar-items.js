@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["algorithm","datastruct","node","y_combinator"]};

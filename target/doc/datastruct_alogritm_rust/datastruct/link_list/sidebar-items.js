@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["doubly_link_list","singly_link_list"],"trait":["LinkListTrait"]};

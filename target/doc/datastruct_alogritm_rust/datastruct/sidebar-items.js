@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["graph","heap","link_list","queue","stack","tire","tree"]};

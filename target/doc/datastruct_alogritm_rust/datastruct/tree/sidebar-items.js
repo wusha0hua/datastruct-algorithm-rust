@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["b_plus_tree","balanced_binary_tree","binary_search_tree","binary_tree","multiway_tree","red_black_tree"],"trait":["TreeTrait"]};
