@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["brute_force","kmp","rk"]};

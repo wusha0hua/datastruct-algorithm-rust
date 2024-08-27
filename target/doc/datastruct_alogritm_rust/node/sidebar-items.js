@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["DoublyNode","Node","TreeNode"],"trait":["NodeTrait","TreeNodeTrait"]};
